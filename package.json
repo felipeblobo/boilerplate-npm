@@ -11,5 +11,9 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Felipe Lobo"
+	"author": "Felipe Lobo",
+	"description": "This a training project for learning purposes.",
+  	"keywords": ["NodeJs", "Express", "freecodecamp"],
+  	"license": "MIT",
+  	"version": "1.2.0"
 }
